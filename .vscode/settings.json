@@ -1,0 +1,11 @@
+{
+	"files.encoding": "utf8",
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+	"terminal.integrated.fontSize": 16,
+	"window.zoomLevel": 1.5,
+	"workbench.colorTheme": "Atom One Dark",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.startupEditor": "none"
+}
